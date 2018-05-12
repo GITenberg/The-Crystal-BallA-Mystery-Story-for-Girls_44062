@@ -1,0 +1,33 @@
+_repo: The-Crystal-BallA-Mystery-Story-for-Girls_44062
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44062-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'Crystal gazing -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Artists -- Juvenile fiction'
+title: 'The Crystal Ball
+
+  A Mystery Story for Girls'
+url: http://www.gutenberg.org/ebooks/44062
